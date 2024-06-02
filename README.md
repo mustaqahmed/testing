@@ -6,6 +6,8 @@ This repo is for testing github things with @fayaazxahmed
 - Camry
 - RAV4
 - Highlander
+- Sequoia
+- Yaris
 
 ## Honda models
 - Civic
