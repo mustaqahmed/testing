@@ -4,14 +4,14 @@ This repo is for testing github things with @fayaazxahmed
 ## Toyota models
 - Corolla
 - Camry
-- RAV4
 - Highlander
+- RAV4
 - Sequoia
 - Yaris
 
 ## Honda models
-- Civic
 - Accord
+- Civic
+- Crv
 - Odyssey
 - Pilot
-- Crv
